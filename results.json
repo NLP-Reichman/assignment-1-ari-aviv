@@ -3,25 +3,33 @@
     "vocab_length": 1804
   },
   "test_build_lm": {
-    "english_2_gram_length": 0,
-    "english_3_gram_length": 0,
-    "french_3_gram_length": 0,
-    "spanish_3_gram_length": 0
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8239,
+    "french_3_gram_length": 8286,
+    "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_on_en": 0,
-    "en_on_fr": 0,
-    "en_on_tl": 0,
-    "en_on_nl": 0
+    "en_on_en": 29.82,
+    "en_on_fr": 63.12,
+    "en_on_tl": 77.74,
+    "en_on_nl": 66.16
   },
-  "test_match": "KeyError('source')",
+  "test_match": {
+    "df_shape": [
+      256,
+      4
+    ],
+    "en_en_3": 29.816356232026358,
+    "en_tl_3": 77.74064870633903,
+    "en_nl_3": 66.15755001591192
+  },
   "test_generate": {
-    "english_2_gram": "",
-    "english_3_gram": "",
-    "english_4_gram": "",
-    "spanish_2_gram": "",
-    "spanish_3_gram": "",
-    "french_2_gram": "",
-    "french_3_gram": ""
+    "english_2_gram": "I amoul<-S hMk, hernd ae",
+    "english_3_gram": "I amittchJalulckel w @ce",
+    "english_4_gram": "I Love t. t. cLY< bie aean",
+    "spanish_2_gram": "Soyell:/RT \u00bfEEne use eg",
+    "spanish_3_gram": "Soy (?? y qAP: qutaquTW",
+    "french_2_gram": "Je suis:/opuavevos is:////M",
+    "french_3_gram": "Je suis nggeden\u2026dppenanered"
   }
 }

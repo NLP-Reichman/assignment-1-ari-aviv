@@ -9,27 +9,27 @@
     "spanish_3_gram_length": 8469
   },
   "test_eval": {
-    "en_on_en": 29.82,
-    "en_on_fr": 63.12,
-    "en_on_tl": 77.74,
-    "en_on_nl": 66.16
+    "en_on_en": 19.59,
+    "en_on_fr": 39.1,
+    "en_on_tl": 47.18,
+    "en_on_nl": 41.58
   },
   "test_match": {
     "df_shape": [
       256,
       4
     ],
-    "en_en_3": 29.816356232026358,
-    "en_tl_3": 77.74064870633903,
-    "en_nl_3": 66.15755001591192
+    "en_en_3": 19.59471258996721,
+    "en_tl_3": 47.17719229048883,
+    "en_nl_3": 41.57882905083602
   },
   "test_generate": {
-    "english_2_gram": "I amoul<-S hMk, hernd ae",
-    "english_3_gram": "I amittchJalulckel w @ce",
-    "english_4_gram": "I Love t. t. cLY< bie aean",
-    "spanish_2_gram": "Soyell:/RT \u00bfEEne use eg",
-    "spanish_3_gram": "Soy (?? y qAP: qutaquTW",
-    "french_2_gram": "Je suis:/opuavevos is:////M",
-    "french_3_gram": "Je suis nggeden\u2026dppenanered"
+    "english_2_gram": "I amoulpeginShmee bie ae",
+    "english_3_gram": "I amittchCaluly kel: @ce",
+    "english_4_gram": "I Love t. t. cYh s vhhp\u2026<end>g",
+    "spanish_2_gram": "Soycal\u00edodenyegucosie ew",
+    "spanish_3_gram": "Soy (?\" y qAP: qudi emu",
+    "french_2_gram": "Je suis:/opapropades tprisl",
+    "french_3_gram": "Je suis nv\u00e9smpe..<end>ivuToi/n@"
   }
 }
